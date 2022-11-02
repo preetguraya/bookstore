@@ -4,6 +4,6 @@
 
 ## The site is live at -  https://bookstore.devgurpreet.com/
 
-(https://user-images.githubusercontent.com/66870905/199387265-04e86097-deb8-4650-98c4-d74eb5010cf3.png)
 
 
+![2022-10-17 (1)](https://user-images.githubusercontent.com/66870905/199387503-00c8e6b1-d3da-4617-be58-2f54275757ba.png)
