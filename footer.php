@@ -38,7 +38,7 @@
 						<div class="col-lg-6 col-md-6 col-sm-12">
 							<div class="copyright">
 								<div class="copy__right__inner text-left">
-									<p>Copyright <i class="fa fa-copyright"></i>Free themes Cloud. All Rights Reserved</p>
+									<p>Copyright <i class="fa fa-copyright"></i>Bookstore. All Rights Reserved</p>
 								</div>
 							</div>
 						</div>
